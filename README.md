@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://muse.ai/s/purohuirusaito-xkxu6xzxyaxkxe20o/k8JmtGRf9bVtSMh8s4dY7Gr5s7aQnqICtlvgHFSRIcA">Profile Site</a> — about me, my work, and selected writing (EN / 日本語)
+  🌐 <a href="https://nebourocket.github.io/">Profile Site</a> — about me, my work, and selected writing (EN / 日本語)
 </p>
 
 <p align="center">
